@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\技术资料\硬件设计工程文件\AC6901 Demo\AC6901Demo_Project\PCB20230301.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

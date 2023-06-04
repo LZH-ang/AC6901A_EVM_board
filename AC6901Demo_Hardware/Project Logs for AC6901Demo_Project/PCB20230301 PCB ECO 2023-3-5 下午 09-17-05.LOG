@@ -1,0 +1,6 @@
+Added Component: Designator=ANT2(ANT-F-2-2.4G)
+Added Pin To Net: NetName=NetANT2_1 Pin=ANT2-1
+Added Pin To Net: NetName=GND Pin=ANT2-2
+Added Pin To Net: NetName=GND Pin=ANT2-2
+Added Pin To Net: NetName=GND Pin=ANT2-2
+Added Member To Class: ClassName=AC6901Demo0 Member=Component ANT2 BT_ANT

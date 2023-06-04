@@ -1,0 +1,9 @@
+Added Component: Designator=USB1(USB_micro)
+Added Pin To Net: NetName=NetS1_2 Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Member To Class: ClassName=AC6901Demo0 Member=Component USB1 USBmirco

@@ -1,0 +1,60 @@
+Added Component: Designator=H1(HDR1X8)
+Added Component: Designator=H12(HDR1X8)
+Added Component: Designator=H13(HDR1X8)
+Added Component: Designator=H14(HDR1X8)
+Added Component: Designator=H15(HDR1X8)
+Added Component: Designator=H16(HDR1X8)
+Added Pin To Net: NetName=LDO_IN Pin=H1-1
+Added Pin To Net: NetName=LDO_IN Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=GND Pin=H1-5
+Added Pin To Net: NetName=GND Pin=H1-6
+Added Pin To Net: NetName=VDDIO Pin=H1-7
+Added Pin To Net: NetName=VDDIO Pin=H1-8
+Added Pin To Net: NetName=NetH12_1 Pin=H12-1
+Added Pin To Net: NetName=NetH12_2 Pin=H12-2
+Added Pin To Net: NetName=NetH12_3 Pin=H12-3
+Added Pin To Net: NetName=NetH12_4 Pin=H12-4
+Added Pin To Net: NetName=NetH12_5 Pin=H12-5
+Added Pin To Net: NetName=NetH12_6 Pin=H12-6
+Added Pin To Net: NetName=NetH12_7 Pin=H12-7
+Added Pin To Net: NetName=NetH12_8 Pin=H12-8
+Added Pin To Net: NetName=VDDIO Pin=H13-1
+Added Pin To Net: NetName=GND Pin=H13-2
+Added Pin To Net: NetName=PR1 Pin=H13-3
+Added Pin To Net: NetName=PR2 Pin=H13-4
+Added Pin To Net: NetName=PR3 Pin=H13-5
+Added Pin To Net: NetName=PR0 Pin=H13-6
+Added Pin To Net: NetName=GND Pin=H13-7
+Added Pin To Net: NetName=VDDIO Pin=H13-8
+Added Pin To Net: NetName=NetH14_1 Pin=H14-1
+Added Pin To Net: NetName=NetH14_2 Pin=H14-2
+Added Pin To Net: NetName=NetH14_3 Pin=H14-3
+Added Pin To Net: NetName=NetH14_4 Pin=H14-4
+Added Pin To Net: NetName=NetH14_5 Pin=H14-5
+Added Pin To Net: NetName=NetH14_6 Pin=H14-6
+Added Pin To Net: NetName=NetH14_7 Pin=H14-7
+Added Pin To Net: NetName=NetH14_8 Pin=H14-8
+Added Pin To Net: NetName=GND Pin=H15-1
+Added Pin To Net: NetName=AUXL Pin=H15-2
+Added Pin To Net: NetName=AUXR Pin=H15-3
+Added Pin To Net: NetName=GND Pin=H15-4
+Added Pin To Net: NetName=DACEN Pin=H15-5
+Added Pin To Net: NetName=AUXEN Pin=H15-6
+Added Pin To Net: NetName=IR Pin=H15-7
+Added Pin To Net: NetName=MIC+ Pin=H15-8
+Added Pin To Net: NetName=K1v Pin=H16-1
+Added Pin To Net: NetName=K2v Pin=H16-2
+Added Pin To Net: NetName=K3v Pin=H16-3
+Added Pin To Net: NetName=K4v Pin=H16-4
+Added Pin To Net: NetName=K1g Pin=H16-5
+Added Pin To Net: NetName=K2g Pin=H16-6
+Added Pin To Net: NetName=K3g Pin=H16-7
+Added Pin To Net: NetName=K4g Pin=H16-8
+Added Member To Class: ClassName=AC6901Demo0 Member=Component H1 HDR1X8
+Added Member To Class: ClassName=AC6901Demo0 Member=Component H12 HDR1X8
+Added Member To Class: ClassName=AC6901Demo0 Member=Component H13 HDR1X8
+Added Member To Class: ClassName=AC6901Demo0 Member=Component H14 HDR1X8
+Added Member To Class: ClassName=AC6901Demo1 Member=Component H15 HDR1X8
+Added Member To Class: ClassName=AC6901Demo1 Member=Component H16 HDR1X8

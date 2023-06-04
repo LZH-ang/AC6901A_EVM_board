@@ -1,0 +1,8 @@
+Added Component: Designator=X2(XTAL_3225-4P)
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=NetC17_2 Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=NetC16_1 Pin=X2-4
+Added Member To Class: ClassName=AC6901Demo0 Member=Component X2 24M
+Added Room: Name=AC6901Demo0
+Added Room: Name=AC6901Demo1

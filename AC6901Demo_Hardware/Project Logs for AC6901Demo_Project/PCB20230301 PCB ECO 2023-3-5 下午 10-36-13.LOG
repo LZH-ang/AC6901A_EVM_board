@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DACEN Pin=H15-5
+Removed Pin From Net: NetName=AUXEN Pin=H15-6
+Added Pin To Net: NetName=AUXEN Pin=H15-5
+Added Pin To Net: NetName=DACEN Pin=H15-6
